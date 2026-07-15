@@ -1,0 +1,9 @@
+title: "Gray Thoron"
+description: "Gray Thoron's very good website"
+url: "https://graythoronphd.com"
+baseurl: ""
+
+# Build settings
+plugins: []
+exclude:
+  - README.txt

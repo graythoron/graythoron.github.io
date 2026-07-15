@@ -17,8 +17,7 @@ Beyond astrophysics, I play tabletop roleplaying games, mentor undergraduate sto
 **Thoron, G.**; Shipp, N.; Riley, A.; Arora, A.; Simpson, C.; Bieri, R.; Ferguson, P.; et al.
 In Review
 
-*  Examining the self-interaction of dark matter through central cluster galaxy offsets
-Cross, D.; **Thoron, G.**; Jeltema, T. E.; 
+*  
 2024, submitted to MNRAS  arXiv:2304.10128
 
 # Contact
